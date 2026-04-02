@@ -1,6 +1,6 @@
 </br>
 <div align="center"> 
-  # SKILLS
+  <p1> SKILLS </p1>
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
