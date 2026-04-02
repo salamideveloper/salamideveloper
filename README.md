@@ -1,3 +1,8 @@
+# Hello i like low level stuff 
+# My best repo is MicroOS, Check it out.
+
+Here are some stuff i'm familiar with: 
+
 </br>
 <div align="center"> 
   <p1>------ SKILLS ------</p1>
