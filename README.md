@@ -19,7 +19,7 @@
 </p>
 <br>
 
-<br><br>
+<br>
 
 <div align="center"> 
   <p1>------ STILL LEARNING ------</p1>
