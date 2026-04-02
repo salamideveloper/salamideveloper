@@ -1,5 +1,5 @@
-# Hello i like low level stuff.
- My best repo is MicroOS, Check it out.
+<h1 font="bold" align="center">Hello i like low level stuff.</h1> 
+<p align="center">My best repo is MicroOS, Check it out.</p>
 
 Here are some stuff i'm familiar with: 
 
