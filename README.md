@@ -1,5 +1,5 @@
-# Hello i like low level stuff 
-# My best repo is MicroOS, Check it out.
+# Hello i like low level stuff.
+ My best repo is MicroOS, Check it out.
 
 Here are some stuff i'm familiar with: 
 
