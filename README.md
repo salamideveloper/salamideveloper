@@ -1,5 +1,7 @@
 </br>
-<p1 align="center"> # Skills </p1>
+<div align="center"> 
+  # SKILLS
+</div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=robloxstudio,html,js,nodejs,c,cpp,blender,bash,discord,vscode,git" />
