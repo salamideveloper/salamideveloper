@@ -8,7 +8,8 @@
     <img src="https://skillicons.dev/icons?i=robloxstudio,kali,linux,c,cpp,html,js,nodejs,blender,bash,discord,vscode,git,raspberrypi,powershell" />
   </a>
 </p>
-# -------------------------------------------------------------
+ -------------------------------------------------------------
+<br>
 
 <div align="center"> 
   <p1>------ STILL LEARNING ------</p1>
@@ -21,8 +22,8 @@
 </p>
 </br>
 
-# -------------------------------------------------------------
-
+-------------------------------------------------------------
+<br>
 <div align="center"> 
   <p1>------ WANT TO LEARN ------</p1>
 </div>
