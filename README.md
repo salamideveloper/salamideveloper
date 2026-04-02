@@ -8,7 +8,8 @@
     <img src="https://skillicons.dev/icons?i=robloxstudio,kali,linux,c,cpp,html,js,nodejs,blender,bash,discord,vscode,git,raspberrypi,powershell" />
   </a>
 </p>
- -------------------------------------------------------------
+<br>
+-------------------------------------------------------------
 <br>
 
 <div align="center"> 
