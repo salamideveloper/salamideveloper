@@ -19,9 +19,7 @@
 </p>
 <br>
 
--------------------------------------------------------------
-
-<br>
+<br><br>
 
 <div align="center"> 
   <p1>------ STILL LEARNING ------</p1>
@@ -32,10 +30,8 @@
     <img src="https://skillicons.dev/icons?i=cs,ruby,bun,bsd,bootstrap,aws,arduino,css,flask,pytorch" />
   </a>
 </p>
-</br>
+</br><br>
 
--------------------------------------------------------------
-<br>
 <div align="center"> 
   <p1>------ WANT TO LEARN ------</p1>
 </div>
