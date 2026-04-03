@@ -10,7 +10,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://user-images.githubusercontent.com/103866722/194773833-8571f323-4fa8-4036-a51c-57b9d29c683b.svg"><br>
+    <img src="https://cdn-icons-png.flaticon.com/512/9748/9748677.png" height="80"><br>
     <img src="https://skillicons.dev/icons?i=robloxstudio,kali,linux,c,cpp,html,js,nodejs" />
     <br>
     <img src="https://skillicons.dev/icons?i=blender,bash,discord,vscode,git,raspberrypi,powershell" />
@@ -49,3 +49,11 @@
   </a>
 </p>
 </br>
+
+<h1 align="center"> Other: </h1>
+  
+<div align="center">
+  Check this out: https://github.com/salamideveloper/microOS
+
+  I like x86 assembly and C/C++ a lot.
+</div>
