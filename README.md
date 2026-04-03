@@ -15,7 +15,8 @@
     <img src="https://skillicons.dev/icons?i=blender,bash,discord,vscode,git,raspberrypi,powershell" />
     <br>
     <img src="https://skillicons.dev/icons?i=replit,ros,ubuntu,visualstudio" />
-    <img src="https://skillicons.dev/icons?i=lua,py,windows" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=lua,py,windows,vercel,discordjs" />
   </a>
 </p>
 <br>
