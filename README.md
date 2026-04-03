@@ -14,9 +14,11 @@
     <br>
     <img src="https://skillicons.dev/icons?i=blender,bash,discord,vscode,git,raspberrypi,powershell" />
     <br>
-    <img src="https://skillicons.dev/icons?i=replit,ros,ubuntu,visualstudio" />
-    <br>
     <img src="https://skillicons.dev/icons?i=lua,py,windows,vercel,discordjs" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=replit,ros,ubuntu,visualstudio" />
+    
+    
   </a>
 </p>
 <br>
