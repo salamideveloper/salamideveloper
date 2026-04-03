@@ -31,9 +31,9 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,ruby,bun,bsd,bootstrap,aws,arduino,css,flask,pytorch" />
+    <img src="https://skillicons.dev/icons?i=cs,ruby,bun,bsd,bootstrap,aws,arduino,css" />
     <br>
-    <img src="https://skillicons.dev/icons?i=gcp,kubernetes,cloudflare,elixir" />
+    <img src="https://skillicons.dev/icons?i=gcp,kubernetes,cloudflare,elixir,flask,pytorch" />
   </a>
 </p>
 </br><br>
