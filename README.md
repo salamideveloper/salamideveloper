@@ -15,6 +15,7 @@
     <img src="https://skillicons.dev/icons?i=blender,bash,discord,vscode,git,raspberrypi,powershell" />
     <br>
     <img src="https://skillicons.dev/icons?i=replit,ros,ubuntu,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=lua,py,windows" />
   </a>
 </p>
 <br>
@@ -27,7 +28,9 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,ruby,bun,bsd,bootstrap,aws,arduino,css,flask,pytorch" />
+    <img src="https://skillicons.dev/icons?i=cs,ruby,bun,bsd,bootstrap,aws,arduino,css,flask,pytorch,elixir,cloudflare" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=gcp,kubernetes" />
   </a>
 </p>
 </br><br>
