@@ -10,6 +10,7 @@
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
+    <img src="https://github.com/ryanoasis/nerd-fonts/issues/857"><br>
     <img src="https://skillicons.dev/icons?i=robloxstudio,kali,linux,c,cpp,html,js,nodejs" />
     <br>
     <img src="https://skillicons.dev/icons?i=blender,bash,discord,vscode,git,raspberrypi,powershell" />
